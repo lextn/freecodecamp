@@ -20,3 +20,10 @@
 ![Screenshot image](responsive-web-design/applied-visual-design.png)
 
 </details>
+
+<details>
+<summary>Applied Accessibility</summary>
+
+![Screenshot image](responsive-web-design/applied-accessibility.png)
+
+</details>
