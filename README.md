@@ -13,3 +13,10 @@
 ![Screenshot image](responsive-web-design/basic-css.png)
 
 </details>
+
+<details>
+<summary>Applied Visual Design</summary>
+
+![Screenshot image](responsive-web-design/applied-visual-design.png)
+
+</details>
