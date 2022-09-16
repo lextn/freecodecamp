@@ -34,3 +34,10 @@
 ![Screenshot image](responsive-web-design/responsive-web-design-principles.png)
 
 </details>
+
+<details>
+<summary>CSS Flexbox</summary>
+
+![Screenshot image](responsive-web-design/css-flexbox.png)
+
+</details>
