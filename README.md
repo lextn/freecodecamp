@@ -27,3 +27,10 @@
 ![Screenshot image](responsive-web-design/applied-accessibility.png)
 
 </details>
+
+<details>
+<summary>Responsive Web Design Principles</summary>
+
+![Screenshot image](responsive-web-design/responsive-web-design-principles.png)
+
+</details>
