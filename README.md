@@ -55,3 +55,7 @@
 ![Screenshot image](responsive-web-design/responsive-web-design-projects.png)
 
 </details>
+
+>
+
+![Screenshot image](responsive-web-design/responsive-web-design-certification.png)
