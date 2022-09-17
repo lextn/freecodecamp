@@ -41,3 +41,10 @@
 ![Screenshot image](responsive-web-design/css-flexbox.png)
 
 </details>
+
+<details>
+<summary>CSS Grid</summary>
+
+![Screenshot image](responsive-web-design/css-grid.png)
+
+</details>
