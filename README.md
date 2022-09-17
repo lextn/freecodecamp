@@ -48,3 +48,10 @@
 ![Screenshot image](responsive-web-design/css-grid.png)
 
 </details>
+
+<details>
+<summary>Responsive Web Design Projects</summary>
+
+![Screenshot image](responsive-web-design/responsive-web-design-projects.png)
+
+</details>
