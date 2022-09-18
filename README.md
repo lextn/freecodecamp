@@ -59,3 +59,14 @@
 >
 
 ![Screenshot image](responsive-web-design/responsive-web-design-certification.png)
+
+
+
+## 1. JavaScript Algorithms and Data Structures
+
+<details>
+<summary>Basic JavaScript</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/basic-javascript.png)
+
+</details>
