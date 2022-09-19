@@ -70,3 +70,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/basic-javascript.png)
 
 </details>
+
+<details>
+<summary>ES6</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/es6.png)
+
+</details>
