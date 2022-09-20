@@ -77,3 +77,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/es6.png)
 
 </details>
+
+<details>
+<summary>Regular Expressions</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/regular-expressions.png)
+
+</details>
