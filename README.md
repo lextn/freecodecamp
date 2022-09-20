@@ -84,3 +84,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/regular-expressions.png)
 
 </details>
+
+<details>
+<summary>Debugging</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/debugging.png)
+
+</details>
