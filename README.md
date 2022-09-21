@@ -91,3 +91,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/debugging.png)
 
 </details>
+
+<details>
+<summary>Basic Data Structures</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/basic-data-structures.png)
+
+</details>
