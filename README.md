@@ -98,3 +98,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/basic-data-structures.png)
 
 </details>
+
+<details>
+<summary>Basic Algorithm Scripting</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/basic-algorithm-scripting.png)
+
+</details>
