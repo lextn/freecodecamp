@@ -105,3 +105,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/basic-algorithm-scripting.png)
 
 </details>
+
+<details>
+<summary>Object Oriented Programming</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/object-oriented-programming.png)
+
+</details>
