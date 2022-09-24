@@ -112,3 +112,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/object-oriented-programming.png)
 
 </details>
+
+<details>
+<summary>Functional Programming</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/functional-programming.png)
+
+</details>
