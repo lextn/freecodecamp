@@ -119,3 +119,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/functional-programming.png)
 
 </details>
+
+<details>
+<summary>Intermediate Algorithm Scripting</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/intermediate-algorithm-scripting.png)
+
+</details>
