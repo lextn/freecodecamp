@@ -126,3 +126,10 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/intermediate-algorithm-scripting.png)
 
 </details>
+
+<details>
+<summary>JavaScript Algorithms and Data Structures Projects</summary>
+
+![Screenshot image](javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects.png)
+
+</details>
