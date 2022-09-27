@@ -133,3 +133,7 @@
 ![Screenshot image](javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects.png)
 
 </details>
+
+>
+
+![Screenshot image](javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-certification.png)
